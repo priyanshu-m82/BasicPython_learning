@@ -13,16 +13,7 @@ It includes basic concepts, practice exercises, and foundational code snippets a
 - Storing strings and integers
 - String formatting with f-strings
 
-```python
-print("python")
-age = 19
-name = "python"
-print(age)
-print(name)
-print("age is --", age, ",", "name is --", name)
-
-# Using f-string
-print(f"Age is: {age}\nName is: {name}")
+---
 
 Goal
 
