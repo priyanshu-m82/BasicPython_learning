@@ -7,11 +7,25 @@ It includes basic concepts, practice exercises, and foundational code snippets a
 
 ##  Notebook: `basic_python.ipynb`
 
-### Topics covered so far:
-- Using the `print()` function
-- Declaring variables
-- Storing strings and integers
-- String formatting with f-strings
+### Topics Covered in the Notebook:
+
+-  Printing output with `print()`
+-  Taking user input with `input()`
+-  Using variables and basic data types
+-  Control flow:
+  - `if`, `elif`, `else`
+-  Loops:
+  - `for` loops with `range()`
+  - `while` loops
+  - Loop control: `break`, `continue`
+-  Functions:
+  - Defining and calling functions using `def`
+  - Parameters and return values
+  - lambda functions
+-  Boolean expressions (`True`, `False`, `not in`, etc.)
+-  Operators and expressions
+-  Type casting and basic string formatting
+-  Practice exercises to reinforce each topic
 
 ---
 
